@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ocean>  
+        <maxX>2</maxX>
+        <maxY>2</maxY>    
+    <isClosed>false</isClosed>
+    <flows>
+        <flow>right</flow>
+        <flow>left</flow>
+</flows>
+    <fishes>
+        <fish>
+            <progenyPeriod>2</progenyPeriod>
+            <type>fish</type>
+            <speed>2</speed>
+            <location>
+                <x>1</x>
+                <y>1</y>
+            </location>
+            <smell>2</smell>
+            <lifeTime>5</lifeTime>
+            <timeOfStarvation>3</timeOfStarvation>
+            <numberOfProgeny>2</numberOfProgeny>
+            <number>0</number>          
+        </fish>
+    </fishes>
+     <foods>
+        <food>
+            <location>
+                <x>1</x>
+                <y>2</y>
+            </location>
+            <number>0</number>
+        </food>
+     </foods>
+</ocean>

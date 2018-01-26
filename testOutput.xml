@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monitoringDOM>
+<report>
+<name>CountOfGrassFeedingFishes</name>
+<value>3</value>
+<name>SharksCount</name>
+<value>2</value>
+</report>
+</monitoringDOM>

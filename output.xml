@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><monitoringDOM>
+<report>
+<name>CountOfGrassFeedingFishes</name>
+<value>13</value>
+<name>SharksCount</name>
+<value>3</value>
+</report>
+<report>
+<name>CountOfGrassFeedingFishes</name>
+<value>16</value>
+<name>SharksCount</name>
+<value>3</value>
+</report>
+<report>
+<name>CountOfGrassFeedingFishes</name>
+<value>16</value>
+<name>SharksCount</name>
+<value>6</value>
+</report>
+</monitoringDOM>
